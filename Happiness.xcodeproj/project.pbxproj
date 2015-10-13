@@ -165,7 +165,7 @@
 				TargetAttributes = {
 					0E11013F1B5B9BF20038BD6C = {
 						CreatedOnToolsVersion = 6.2;
-						DevelopmentTeam = HVXKTC3S27;
+						DevelopmentTeam = E8K7V8Y3M8;
 					};
 					0E1101541B5B9BF20038BD6C = {
 						CreatedOnToolsVersion = 6.2;
@@ -349,7 +349,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = Happiness/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "edu.stanford.cs193p.itunesu.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.mizogaki.happiness;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 			};
@@ -363,7 +363,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = Happiness/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "edu.stanford.cs193p.itunesu.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.mizogaki.happiness;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 			};
